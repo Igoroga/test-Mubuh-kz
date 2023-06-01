@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/test-Mubuh-kz/static/css/main.25b27e1c.css",
+    "main.js": "/test-Mubuh-kz/static/js/main.6d3bf5c9.js",
+    "index.html": "/test-Mubuh-kz/index.html",
+    "main.25b27e1c.css.map": "/test-Mubuh-kz/static/css/main.25b27e1c.css.map",
+    "main.6d3bf5c9.js.map": "/test-Mubuh-kz/static/js/main.6d3bf5c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25b27e1c.css",
+    "static/js/main.6d3bf5c9.js"
+  ]
+}
